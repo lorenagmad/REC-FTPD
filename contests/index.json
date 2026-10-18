@@ -56,7 +56,7 @@
         "points_max": 1000,
         "points_min": 500
       }
-    }
+    },
     {
       "file": "tema-3.bin",
       "id": "tema-3",
@@ -82,6 +82,6 @@
         "points_max": 1000,
         "points_min": 500
       }
-    },
+    }
   ]
 }
