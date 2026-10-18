@@ -1,8 +1,87 @@
 {
   "course": {
-    "title": "",
-    "subtitle": "",
+    "title": "Fundamentos Técnicos en Publicidad Digital",
+    "subtitle": "FTPD",
     "language": "es"
   },
-  "contests": []
+  "contests": [
+    {
+      "file": "tema-1.bin",
+      "id": "tema-1",
+      "title": "Tema 1",
+      "section": "",
+      "name": "Tema 1",
+      "description": "",
+      "questions": 6,
+      "video": false,
+      "global": false,
+      "active": true,
+      "analysis": true,
+      "practice": false,
+      "settings": {
+        "times": {
+          "opcion_multiple": 20,
+          "verdadero_falso": 15,
+          "emparejar": 45,
+          "ordenar": 45,
+          "respuesta_corta": 30,
+          "imagen": 25
+        },
+        "points_max": 1000,
+        "points_min": 500
+      }
+    },
+    {
+      "file": "tema-3.bin",
+      "id": "tema-3",
+      "title": "Tema 3",
+      "section": "",
+      "name": "Tema 3",
+      "description": "",
+      "questions": 5,
+      "video": false,
+      "global": false,
+      "active": true,
+      "analysis": true,
+      "practice": false,
+      "settings": {
+        "times": {
+          "opcion_multiple": 20,
+          "verdadero_falso": 15,
+          "emparejar": 45,
+          "ordenar": 45,
+          "respuesta_corta": 30,
+          "imagen": 25
+        },
+        "points_max": 1000,
+        "points_min": 500
+      }
+    },
+    {
+      "file": "tema-2.bin",
+      "id": "tema-2",
+      "title": "Tema 2",
+      "section": "",
+      "name": "Tema 2",
+      "description": "",
+      "questions": 8,
+      "video": false,
+      "global": false,
+      "active": true,
+      "analysis": true,
+      "practice": false,
+      "settings": {
+        "times": {
+          "opcion_multiple": 20,
+          "verdadero_falso": 15,
+          "emparejar": 45,
+          "ordenar": 45,
+          "respuesta_corta": 30,
+          "imagen": 25
+        },
+        "points_max": 1000,
+        "points_min": 500
+      }
+    }
+  ]
 }
