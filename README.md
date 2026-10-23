@@ -22,3 +22,8 @@ Open the demo at <https://lorenagmad.github.io/REC/> and enter the contest with 
 - **Estudio / Studio** (`studio.html`): importación de Moodle XML, banco de preguntas con temas, concursos con contraseña, evaluaciones globales automáticas, publicación cifrada, ranking con bonificación, análisis de resultados, repaso en clase y exportación en xAPI. / Moodle XML import, question bank with topics, password-protected contests, automatic global tests, encrypted publishing, ranking with bonus, results analysis, class review and xAPI export.
 
 Para ver un proyecto de ejemplo en el estudio, abre [docs/proyecto-demo.rec.json](docs/proyecto-demo.rec.json) con **Abrir proyecto**. / To see a sample project in the studio, open it with **Open project**.
+
+## Licencia / Licence
+
+El código (`index.html` y `studio.html`) es software libre con licencia **GNU Affero General Public License v3.0** ([LICENSE](LICENSE)); procede de [REC](https://github.com/lorenagmad/REC). Los concursos de la carpeta `contests` son material docente de la asignatura y no están incluidos en esa licencia; las imágenes y los vídeos que contienen pertenecen a sus respectivos titulares y se usan con fines exclusivamente docentes.
+The code (`index.html` and `studio.html`) is free software licensed under the **GNU Affero General Public License v3.0** ([LICENSE](LICENSE)); it comes from [REC](https://github.com/lorenagmad/REC). The contests in the `contests` folder are teaching material for the course and are not covered by that licence; the images and videos they contain belong to their respective owners and are used for teaching purposes only.
